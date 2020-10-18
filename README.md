@@ -2,6 +2,8 @@
 
 Uses API to show current changes in COVID-19 
 
+### [View Live](https://covid19statswebsite.netlify.com/)
+
 ## Description
 
 This is a React app that tracks the amount of people who were infected, recovered, and killed from Covid19.
