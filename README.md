@@ -1,10 +1,17 @@
 # Covid19 World Tracker
-This app tracks the amount of people who were infected, recovered, and killed from Covid19.
+
+Uses API to show current changes in COVID-19 
+
+## Description
+
+This is a React app that tracks the amount of people who were infected, recovered, and killed from Covid19.
+
+## Demo
 
 ![covid19_demo](https://user-images.githubusercontent.com/46305741/96385566-8ebd7d80-1149-11eb-97b7-32aa9bf17697.gif)
 
 
-# Technologies
+## Technologies
 
 - React
 - Chart.JS
@@ -13,3 +20,4 @@ This app tracks the amount of people who were infected, recovered, and killed fr
 - CSS
 - Javascript
 - API used: https://covid19.mathdro.id/api
+
