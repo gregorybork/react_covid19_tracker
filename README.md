@@ -2,7 +2,7 @@
 
 Uses API to show current changes in COVID-19 
 
-### [View Live]( https://gregorybork.github.io/react_covid19_tracker/)
+### [View Live](https://gregorybork.github.io/react_covid19_tracker/)
 
 ## Description
 
