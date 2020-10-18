@@ -1,0 +1,28 @@
+.container {
+    margin: 50px 0;
+    
+}
+
+.card {
+    margin: 0 2% !important;
+    background-color: rgb(151, 151, 151) !important;
+}
+
+@media (max-width: 770px){
+    .card {
+        margin: 2% 0 !important;
+    }
+}
+
+
+.infected {
+    border-bottom: 10px solid #77b603;
+}
+
+.recovered {
+    border-bottom: 10px solid #00a6d1;
+}
+
+.deaths {
+    border-bottom: 10px solid #b7001b;
+}
